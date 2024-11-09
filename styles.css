@@ -71,5 +71,5 @@ button:hover{
     border-radius : 1rem;
     cursor: pointer;
     transition: 0.5s all ease-in .15s;
-
+    font-weight: bold;
 }
